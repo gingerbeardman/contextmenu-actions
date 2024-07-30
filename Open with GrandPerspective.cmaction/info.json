@@ -1,0 +1,12 @@
+{
+  "path" : "/Applications/GrandPerspective.app",
+  "options" : {
+    "acceptDirs" : true,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false
+  },
+  "name" : "Open with \"GrandPerspective\"",
+  "type" : "application",
+  "uuid" : "8FE0B3DD-5A49-48DB-88E0-60E319D160FA"
+}

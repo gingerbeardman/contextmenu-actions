@@ -1,0 +1,15 @@
+{
+  "name" : "Optimize GIF @2x",
+  "fileTypes" : "gif",
+  "uuid" : "3E489CD8-7450-4DCC-832D-2524DDB06AB6",
+  "type" : "shell",
+  "options" : {
+    "acceptDirs" : false,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : false
+  },
+  "path" : "/bin/bash",
+  "icon" : "icon.icns"
+}

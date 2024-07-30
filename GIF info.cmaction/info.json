@@ -1,0 +1,15 @@
+{
+  "type" : "shell",
+  "fileTypes" : "gif",
+  "uuid" : "531B89F0-2EF1-4EE1-B2A6-C760B1799876",
+  "path" : "/bin/bash",
+  "options" : {
+    "acceptDirs" : false,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : false
+  },
+  "icon" : "icon.icns",
+  "name" : "Get GIF info"
+}

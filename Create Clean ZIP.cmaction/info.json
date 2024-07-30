@@ -1,0 +1,12 @@
+{
+  "path" : "/Applications/Keka.app",
+  "options" : {
+    "acceptDirs" : true,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false
+  },
+  "name" : "Create Clean ZIP",
+  "type" : "application",
+  "uuid" : "FFB7DF44-9DDC-4982-84FA-254FBCD8BD68"
+}

@@ -1,0 +1,1 @@
+/opt/homebrew/bin/gifsicle -O1 -Okeep-empty --careful "$@" > "${@%.gif}.opt.gif"

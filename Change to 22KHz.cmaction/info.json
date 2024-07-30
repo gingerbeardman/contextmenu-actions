@@ -1,0 +1,15 @@
+{
+  "icon" : "icon.icns",
+  "fileTypes" : ".wav",
+  "uuid" : "14D7625C-B5E2-45BF-8D49-BEE22CD359A8",
+  "type" : "shell",
+  "path" : "/bin/bash",
+  "options" : {
+    "acceptDirs" : false,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : false
+  },
+  "name" : "Change to 22050"
+}

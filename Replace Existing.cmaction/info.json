@@ -1,0 +1,15 @@
+{
+  "icon" : "icon.icns",
+  "fileTypes" : "app",
+  "uuid" : "7B34F96A-7F0F-4DE5-B047-D8281C5160EE",
+  "type" : "shell",
+  "path" : "/bin/bash",
+  "name" : "Replace Existing",
+  "options" : {
+    "acceptDirs" : true,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : true
+  }
+}

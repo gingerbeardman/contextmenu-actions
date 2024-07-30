@@ -1,0 +1,13 @@
+{
+  "path" : "/Applications/AppCleaner.app",
+  "uuid" : "251D4B19-9D59-44A4-8087-28E648882031",
+  "options" : {
+    "acceptDirs" : true,
+    "acceptFiles" : true,
+    "noSandbox" : false,
+    "confirmExecution" : false
+  },
+  "name" : "Uninstall using \"AppCleaner\"",
+  "type" : "application",
+  "fileTypes" : "app"
+}

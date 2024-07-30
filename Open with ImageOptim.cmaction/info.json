@@ -1,0 +1,13 @@
+{
+  "path" : "/Applications/ImageOptim.app",
+  "uuid" : "F739EB03-14CD-4FBE-8131-D65226EDB388",
+  "options" : {
+    "acceptDirs" : true,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false
+  },
+  "name" : "Open with ImageOptim",
+  "type" : "application",
+  "fileTypes" : "jpg,jpeg,png,gif,svg"
+}

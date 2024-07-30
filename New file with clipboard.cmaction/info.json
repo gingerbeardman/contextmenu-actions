@@ -1,0 +1,14 @@
+{
+  "path" : "/bin/bash",
+  "options" : {
+    "acceptDirs" : false,
+    "acceptFiles" : false,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : false
+  },
+  "icon" : "icon.icns",
+  "name" : "New file with Clipboard",
+  "type" : "shell",
+  "uuid" : "8B98C073-BE30-4AC9-A46A-A82BCE954A25"
+}

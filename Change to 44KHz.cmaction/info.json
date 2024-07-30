@@ -1,0 +1,15 @@
+{
+  "icon" : "icon.icns",
+  "fileTypes" : ".wav",
+  "uuid" : "B8933EAE-1895-40CF-84C6-37133D8E7A7C",
+  "type" : "shell",
+  "path" : "/bin/bash",
+  "options" : {
+    "acceptDirs" : false,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : false
+  },
+  "name" : "Change to 44100"
+}

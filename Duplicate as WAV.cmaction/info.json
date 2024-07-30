@@ -1,0 +1,15 @@
+{
+  "name" : "Duplicate as WAV",
+  "fileTypes" : "aif,aiff,au,m4a,mkv,mp4",
+  "uuid" : "47C11A1F-CA18-4C80-8671-68F9653BAC67",
+  "type" : "shell",
+  "options" : {
+    "acceptDirs" : false,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : true
+  },
+  "path" : "/bin/bash",
+  "icon" : "icon.icns"
+}

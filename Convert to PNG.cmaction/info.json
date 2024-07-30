@@ -1,0 +1,15 @@
+{
+  "icon" : "icon.icns",
+  "fileTypes" : "bmp,gif,jpg,tif,tiff",
+  "uuid" : "D31152F4-A977-4CA4-ADE2-97FC0AB25C11",
+  "type" : "shell",
+  "path" : "/bin/bash",
+  "name" : "Convert to PNG",
+  "options" : {
+    "acceptDirs" : true,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : false
+  }
+}

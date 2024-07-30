@@ -1,0 +1,14 @@
+{
+  "path" : "/bin/bash",
+  "options" : {
+    "acceptDirs" : false,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : false
+  },
+  "icon" : "icon.icns",
+  "name" : "Set as MacJapanese",
+  "type" : "shell",
+  "uuid" : "45CA5C07-1BA6-4505-840A-47EA55E0B450"
+}

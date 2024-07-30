@@ -1,0 +1,14 @@
+{
+  "path" : "/bin/bash",
+  "options" : {
+    "acceptDirs" : false,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : false
+  },
+  "icon" : "icon.icns",
+  "name" : "Stub",
+  "type" : "shell",
+  "uuid" : "487BAAF1-88DB-4B4D-BCB2-FCDE574BD5CF"
+}

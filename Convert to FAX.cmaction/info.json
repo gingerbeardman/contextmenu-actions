@@ -1,0 +1,15 @@
+{
+  "path" : "/bin/bash",
+  "fileTypes" : "bmp,gif,jpg,png,tif,tiff",
+  "uuid" : "E38B99AA-5398-4A26-9742-C88053F11936",
+  "type" : "shell",
+  "options" : {
+    "acceptDirs" : true,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : false
+  },
+  "icon" : "icon.icns",
+  "name" : "Convert to FAX"
+}

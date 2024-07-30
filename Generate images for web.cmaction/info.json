@@ -1,0 +1,15 @@
+{
+  "type" : "shell",
+  "fileTypes" : "png,jpg,tif",
+  "uuid" : "A20EE25E-93A9-4B3C-B800-0B880C0A6094",
+  "path" : "/bin/bash",
+  "options" : {
+    "acceptDirs" : false,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : false
+  },
+  "icon" : "icon.icns",
+  "name" : "Generate .avif & .webp"
+}

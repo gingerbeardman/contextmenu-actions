@@ -1,0 +1,1 @@
+xattr -w com.apple.TextEncoding "X-MAC-JAPANESE;1" "$@"

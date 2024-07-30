@@ -1,0 +1,12 @@
+{
+  "path" : "/Applications/Hex Fiend.app",
+  "options" : {
+    "acceptDirs" : false,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false
+  },
+  "name" : "Open with \"Hex Fiend\"",
+  "type" : "application",
+  "uuid" : "C8678590-8917-443E-B109-547D115332CC"
+}

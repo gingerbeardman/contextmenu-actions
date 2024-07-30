@@ -1,0 +1,15 @@
+{
+  "path" : "/bin/bash",
+  "fileTypes" : ".wav",
+  "uuid" : "64DF895E-9EC3-4C4B-B503-9266F6301048",
+  "type" : "shell",
+  "options" : {
+    "acceptDirs" : false,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : false
+  },
+  "icon" : "icon.icns",
+  "name" : "Change to 8000"
+}

@@ -1,0 +1,15 @@
+{
+  "type" : "shell",
+  "fileTypes" : "gif",
+  "uuid" : "F813942D-439E-4278-8A8A-4185328261EA",
+  "path" : "/bin/bash",
+  "options" : {
+    "acceptDirs" : false,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : false
+  },
+  "icon" : "icon.icns",
+  "name" : "Loop GIF"
+}

@@ -1,0 +1,12 @@
+{
+  "path" : "/Applications/Hash.app",
+  "options" : {
+    "acceptDirs" : false,
+    "acceptFiles" : true,
+    "noSandbox" : false,
+    "confirmExecution" : false
+  },
+  "name" : "Show Hashes",
+  "type" : "application",
+  "uuid" : "3DED3393-10CC-4128-8598-AD1C39315322"
+}

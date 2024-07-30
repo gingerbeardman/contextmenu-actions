@@ -1,0 +1,15 @@
+{
+  "icon" : "icon.icns",
+  "fileTypes" : ".xcarchive",
+  "uuid" : "BAF9DCCB-5CF5-47F3-BDB3-0493204D5929",
+  "type" : "shell",
+  "path" : "/bin/bash",
+  "name" : "Extract .app from .xcarchive",
+  "options" : {
+    "acceptDirs" : false,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : false
+  }
+}

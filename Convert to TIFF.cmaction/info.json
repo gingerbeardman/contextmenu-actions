@@ -1,0 +1,15 @@
+{
+  "path" : "/bin/bash",
+  "fileTypes" : "bmp,gif,jpg,png,heic",
+  "uuid" : "4BBC0590-6BCC-4DA8-80DB-F839992ECFBB",
+  "type" : "shell",
+  "options" : {
+    "acceptDirs" : true,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : false
+  },
+  "icon" : "icon.icns",
+  "name" : "Convert to TIFF"
+}

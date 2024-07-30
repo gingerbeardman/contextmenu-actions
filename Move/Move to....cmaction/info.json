@@ -1,0 +1,12 @@
+{
+  "path" : "/Applications/Move To.app",
+  "options" : {
+    "acceptDirs" : true,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false
+  },
+  "name" : "Move...",
+  "type" : "application",
+  "uuid" : "044C9FFD-3E19-40C5-B94F-3105169DAF15"
+}

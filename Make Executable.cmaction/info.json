@@ -1,0 +1,15 @@
+{
+  "type" : "shell",
+  "fileTypes" : "php\npl\npy\nsh\n",
+  "uuid" : "D54E04C2-D4FF-45F8-8ECD-F641E235FA0E",
+  "path" : "/bin/bash",
+  "options" : {
+    "acceptDirs" : false,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : false
+  },
+  "icon" : "icon.icns",
+  "name" : "Make Executable"
+}
