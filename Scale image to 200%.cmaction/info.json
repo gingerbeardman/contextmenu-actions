@@ -1,0 +1,15 @@
+{
+  "type" : "shell",
+  "fileTypes" : "bmp,gif,jpg,png,tif,tiff",
+  "uuid" : "CA8B8DDF-F2AD-4CB6-8AD9-D09875E6E979",
+  "path" : "/bin/bash",
+  "options" : {
+    "acceptDirs" : true,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : false
+  },
+  "icon" : "icon.icns",
+  "name" : "Scale image to 200%"
+}

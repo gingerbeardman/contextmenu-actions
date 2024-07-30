@@ -1,0 +1,15 @@
+{
+  "icon" : "icon.icns",
+  "fileTypes" : "bmp,gif,jpg,png,tif,tiff",
+  "uuid" : "A160ABEC-F550-4F4B-8F71-BFD27A15C29B",
+  "type" : "shell",
+  "path" : "/bin/bash",
+  "name" : "Scale image to 75%",
+  "options" : {
+    "acceptDirs" : true,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : false
+  }
+}
