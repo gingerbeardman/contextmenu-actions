@@ -1,0 +1,7 @@
+#!/bin/sh
+
+CD="cocoaDialog3.app/Contents/MacOS/cocoaDialog"
+
+rv=`$CD fileselect --select-only-directories`
+
+mv "$@" "$rv"
