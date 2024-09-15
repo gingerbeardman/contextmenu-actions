@@ -1,15 +1,15 @@
 {
-  "icon" : "icon.icns",
+  "path" : "/bin/zsh",
   "fileTypes" : "bmp,gif,heic,png,tif,tiff",
   "uuid" : "7A87BEF5-CC4C-41EF-B37B-2E157FB7AAB2",
   "type" : "shell",
-  "path" : "/bin/zsh",
-  "name" : "Duplicate as JPG",
   "options" : {
-    "acceptDirs" : false,
+    "acceptDirs" : true,
     "acceptFiles" : true,
     "noSandbox" : true,
     "confirmExecution" : false,
-    "showOutput" : true
-  }
+    "showOutput" : false
+  },
+  "icon" : "icon.icns",
+  "name" : "Duplicate as JPG"
 }
