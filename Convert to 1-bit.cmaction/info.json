@@ -1,5 +1,5 @@
 {
-  "name" : "Convert to 1-bit",
+  "path" : "/bin/zsh",
   "fileTypes" : "png",
   "uuid" : "F813942D-439E-4278-8A8A-4185328261EA",
   "type" : "shell",
@@ -10,6 +10,6 @@
     "confirmExecution" : false,
     "showOutput" : false
   },
-  "path" : "/bin/zsh",
-  "icon" : "icon.icns"
+  "icon" : "icon.icns",
+  "name" : "Convert to 1-bit"
 }

@@ -1,8 +1,8 @@
 {
-  "name" : "Convert to JPEG",
-  "fileTypes" : "bmp,gif,png,tif,tiff,heic",
+  "name" : "Convert to JPG",
+  "fileTypes" : "bmp,gif,png,tif,tiff,heic,webp",
   "uuid" : "CCA1A496-B680-43EE-81AA-7D059B6CB786",
-  "type" : "shell",
+  "path" : "/bin/bash",
   "options" : {
     "acceptDirs" : true,
     "acceptFiles" : true,
@@ -10,6 +10,6 @@
     "confirmExecution" : false,
     "showOutput" : false
   },
-  "path" : "/bin/bash",
+  "type" : "shell",
   "icon" : "icon.icns"
 }

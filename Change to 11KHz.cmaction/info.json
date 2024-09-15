@@ -1,9 +1,4 @@
 {
-  "icon" : "icon.icns",
-  "fileTypes" : ".wav",
-  "uuid" : "3D80F55B-10E3-48CB-945A-AD4949BC65A8",
-  "type" : "shell",
-  "path" : "/bin/bash",
   "options" : {
     "acceptDirs" : false,
     "acceptFiles" : true,
@@ -11,5 +6,10 @@
     "confirmExecution" : false,
     "showOutput" : false
   },
-  "name" : "Change to 11025"
+  "fileTypes" : ".wav",
+  "uuid" : "3D80F55B-10E3-48CB-945A-AD4949BC65A8",
+  "type" : "shell",
+  "path" : "/bin/bash",
+  "name" : "Change to 11025",
+  "icon" : "icon.icns"
 }

@@ -1,8 +1,8 @@
 {
-  "path" : "/bin/bash",
-  "fileTypes" : "au,m4a,mkv,mp4,mp3,wav",
-  "uuid" : "47C11A1F-CA18-4C80-8671-68F9653BAC67",
   "type" : "shell",
+  "fileTypes" : "au,m4a,mkv,mp4,mp3,wav,wma",
+  "uuid" : "47C11A1F-CA18-4C80-8671-68F9653BAC67",
+  "path" : "/bin/bash",
   "options" : {
     "acceptDirs" : false,
     "acceptFiles" : true,

@@ -2,8 +2,8 @@
   "icon" : "icon.icns",
   "fileTypes" : "gif,jpg,png,tif,tiff,heic",
   "uuid" : "7A87BEF5-CC4C-41EF-B37B-2E157FB7AAB2",
-  "path" : "/bin/bash",
   "type" : "shell",
+  "path" : "/bin/bash",
   "name" : "Duplicate as BMP",
   "options" : {
     "acceptDirs" : true,

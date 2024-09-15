@@ -1,8 +1,8 @@
 {
+  "name" : "Duplicate as M4A",
+  "fileTypes" : "aif,aiff,au,m4a,mkv,mp4,wma",
+  "uuid" : "E7DCADA9-6053-414F-A388-02EB5634E750",
   "path" : "/bin/bash",
-  "fileTypes" : "mov,mkv",
-  "uuid" : "47C11A1F-CA18-4C80-8671-68F9653BAC67",
-  "type" : "shell",
   "options" : {
     "acceptDirs" : false,
     "acceptFiles" : true,
@@ -10,6 +10,6 @@
     "confirmExecution" : false,
     "showOutput" : true
   },
-  "icon" : "icon.icns",
-  "name" : "Duplicate as MP4"
+  "type" : "shell",
+  "icon" : "icon.icns"
 }

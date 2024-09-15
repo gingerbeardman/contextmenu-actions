@@ -1,4 +1,4 @@
 for f in "$@"
 do
-    /opt/homebrew/bin/ffmpeg -i "$@" "${@%.*}.aif"
+    /opt/homebrew/bin/ffmpeg -i "$f" "${f%.*}.aif"
 done

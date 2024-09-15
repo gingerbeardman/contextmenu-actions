@@ -1,4 +1,4 @@
 for f in "$@"
 do
-    /opt/homebrew/bin/ffmpeg -i "$@" "${@%.*}.wav"
+    /opt/homebrew/bin/ffmpeg -i "$f" "${f%.*}.wav"
 done

@@ -1,8 +1,8 @@
 {
-  "path" : "/bin/bash",
+  "type" : "shell",
   "fileTypes" : "mov,mkv",
   "uuid" : "47C11A1F-CA18-4C80-8671-68F9653BAC67",
-  "type" : "shell",
+  "path" : "/bin/bash",
   "options" : {
     "acceptDirs" : false,
     "acceptFiles" : true,
@@ -11,5 +11,5 @@
     "showOutput" : true
   },
   "icon" : "icon.icns",
-  "name" : "Duplicate as MP4"
+  "name" : "Duplicate as MP4 50%"
 }

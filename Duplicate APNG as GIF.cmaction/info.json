@@ -1,8 +1,8 @@
 {
-  "name" : "Duplicate as HEIC",
-  "fileTypes" : "bmp,gif,jpg,png,tif,tiff",
-  "uuid" : "7A87BEF5-CC4C-41EF-B37B-2E157FB7AAB2",
-  "type" : "shell",
+  "name" : "Duplicate as GIF",
+  "fileTypes" : "png",
+  "uuid" : "D31152F4-A977-4CA4-ADE2-97FC0AB25C11",
+  "path" : "/bin/bash",
   "options" : {
     "acceptDirs" : true,
     "acceptFiles" : true,
@@ -10,6 +10,6 @@
     "confirmExecution" : false,
     "showOutput" : false
   },
-  "path" : "/bin/bash",
+  "type" : "shell",
   "icon" : "icon.icns"
 }

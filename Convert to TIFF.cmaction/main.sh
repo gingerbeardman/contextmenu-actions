@@ -1,5 +1,5 @@
 for f in "$@"
 do
-	/opt/homebrew/bin/magick "$@" "${@%.*}.tiff"
-	rm "$@"
+	/opt/homebrew/bin/magick "$f" "${f%.*}.tiff"
+	rm "$f"
 done

@@ -1,4 +1,4 @@
 for f in "$@"
 do
-	/opt/homebrew/bin/magick "$@" "$@.jpg" &
+	/opt/homebrew/bin/magick "$f" "${f%.*}.jpg"
 done

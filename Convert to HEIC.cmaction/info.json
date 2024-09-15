@@ -1,5 +1,5 @@
 {
-  "name" : "Convert to HEIC",
+  "path" : "/bin/bash",
   "fileTypes" : "bmp,gif,jpg,png,tif,tiff",
   "uuid" : "9A6C23B6-E26A-4AE8-9C2E-6D3CE8A7542B",
   "type" : "shell",
@@ -10,6 +10,6 @@
     "confirmExecution" : false,
     "showOutput" : false
   },
-  "path" : "/bin/bash",
-  "icon" : "icon.icns"
+  "icon" : "icon.icns",
+  "name" : "Convert to HEIC"
 }

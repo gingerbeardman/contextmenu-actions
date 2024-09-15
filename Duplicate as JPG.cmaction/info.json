@@ -2,14 +2,14 @@
   "icon" : "icon.icns",
   "fileTypes" : "bmp,gif,heic,png,tif,tiff",
   "uuid" : "7A87BEF5-CC4C-41EF-B37B-2E157FB7AAB2",
-  "path" : "/bin/bash",
   "type" : "shell",
+  "path" : "/bin/zsh",
   "name" : "Duplicate as JPG",
   "options" : {
-    "acceptDirs" : true,
+    "acceptDirs" : false,
     "acceptFiles" : true,
     "noSandbox" : true,
     "confirmExecution" : false,
-    "showOutput" : false
+    "showOutput" : true
   }
 }
